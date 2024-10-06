@@ -1,6 +1,6 @@
 # KSM
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm008)](https://solved.ac/ksm008/)
-- Started BJ | Sep 24, 2024
+- Started BOJ | Sep 24, 2024
 - Reached Silver | Oct 6, 2024
 
 # Learning
