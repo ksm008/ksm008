@@ -7,7 +7,7 @@ Reached Silver | Oct 6, 2024
 
 ---
 
-# Studying  
+# Studying & Stacks 
 
 ## Frontend  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?&style=for-the-badge&logo=React&logoColor=61DAFB)  
@@ -17,6 +17,9 @@ Reached Silver | Oct 6, 2024
 
 ## Other  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
+
+## IDE  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)  
 
 
 ---
